@@ -18,7 +18,7 @@ const ProductList = () => {
       setLoading(true);
       try {
         const productsResponse = await axiosInstance.get(
-          "http://localhost:49160/products"
+          "http://localhost:49160/products",
         );
         setProducts(productsResponse.data);
       } catch (error) {
@@ -35,7 +35,7 @@ const ProductList = () => {
   const handleDelete = async (product_id) => {
     const oldProducts = [...products];
     const updatedProducts = oldProducts.filter(
-      (product) => product.product_id !== product_id
+      (product) => product.product_id !== product_id,
     );
     setProducts(updatedProducts);
 
@@ -47,7 +47,7 @@ const ProductList = () => {
           loading: "Deleting...",
           success: "Successfully deleted!",
           error: "Couldn't delete",
-        }
+        },
       );
 
       console.log(deleteResponse.data);
@@ -75,7 +75,7 @@ const ProductList = () => {
   const filterName = searchParams.get("name");
   const filteredProducts = filterName
     ? products.filter((product) =>
-        product?.product_name?.toLowerCase().includes(filterName.toLowerCase())
+        product?.product_name?.toLowerCase().includes(filterName.toLowerCase()),
       )
     : products;
 

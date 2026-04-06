@@ -68,6 +68,7 @@
   },
   "devDependencies": {
     "@alwaysmeticulous/cli": "^2.270.1",
+    "serve": "^14.2.6",
     "tailwindcss": "^3.4.10"
   }
 }
