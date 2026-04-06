@@ -91,7 +91,7 @@ function LoginForm() {
               type="submit"
               style={{
                 background:
-                  "linear-gradient(to right, #007bff, #0056b3, #004085, #002752)",
+                  "linear-gradient(to right, #ff4d4d, #cc0000, #990000, #660000)",
               }}
             >
               {isLoading ? "Logging in..." : "Login"}
