@@ -1,0 +1,69 @@
+{
+  "Welcome to React": "ayyoo React-க்கு வரவேற்கிறேன்",
+  "title": "react-i18next-ஐப் பயன்படுத்தி React-க்கு வரவேற்கிறேன்",
+  "description": {
+    "part1": "<1>src/App.js</1>-ஐ திருத்தி சேமிக்கவும்.",
+    "part2": "மேலே உள்ள பட்டன்கள் மூலம் ஆங்கிலத்துக்கும் ஜெர்மனிக்கும் மொழியை மாற்றவும்."
+  },
+  "Find Item": "பொருளை கண்டுபிடிக்கவும்",
+  "order_details": "ஆணை விவரங்கள்",
+  "grand_total": "மொத்தம்",
+  "item_name": "பொருள் பெயர்",
+  "quantity": "அளவு",
+  "price": "விலை",
+  "total": "மொத்தம்",
+  "increment": "கூட்டவும்",
+  "decrement": "குறைக்கவும்",
+  "delete": "அழிக்கவும்",
+  "payment": {
+    "cash": "நகத்து",
+    "card": "கார்டு",
+    "items": "பொருட்கள்:",
+    "total_price": "மொத்த விலை:",
+    "cash_placeholder": "தொகை உள்ளிடவும்",
+    "change": "மாற்றம்:",
+    "checkout": "செல்லவைக்கு",
+    "stashing_bill": "பில்லை சேமிக்கிறது...",
+    "processing_order": "உங்கள் ஆணையை செயல்படுத்துகிறது...",
+    "please_wait": "செல்லவை முடிக்க நாங்கள் இறுதியாக காத்திருக்கவும்.",
+    "checkout_success": "செல்லவை வெற்றிகரமாக",
+    "payment_processed": "பணம் வெற்றிகரமாக செயலாக்கப்பட்டுள்ளது.",
+    "stashing_success": "சேமிப்பு வெற்றிகரமாக",
+    "stashing_processed": "பில் வெற்றிகரமாக சேமிக்கப்பட்டது.",
+    "loading_animation": "உள்ளடக்கம் ஆவணப்படுத்தும்",
+    "amount_received": "பெறப்பட்ட தொகை"
+  },
+  "add_sale": {
+    "enter_barcode": "பார்கோடு உள்ளிடவும்",
+    "enter_quantity": "அளவு உள்ளிடவும்",
+    "submit": "சமர்ப்பிக்கவும்",
+    "scan_barcode": "பார்கோடு ச்கேன் செய்யவும்",
+    "scan_barcode_modal_title": "பார்கோடு ஸ்கேன் செய்க",
+    "done": "முடிந்தது",
+    "cancel": "ரத்து செய்யவும்"
+  },
+  "search_items": {
+    "searchPlaceholder": "பொருளின் பெயரால் தேடு",
+    "searchButton": "தேடு",
+    "resetButton": "மீட்டமை",
+    "priceLabel": "$",
+    "quantityLabel": "அளவு",
+    "addToCartButton": "வணிகத்தில் சேர்க்கவும்"
+  },
+  "loyalty programme": "விருப்பத்திற்கான திட்டம்",
+  "Phone": "தொலைபேசி",
+  "phone number": "தொலைபேசி எண்",
+  "Discounts": "தள்ளுபடிகள்",
+  "Promo Code": "பிரமோ குறியீடு",
+  "cashier_nav": {
+    "Dashboard": "டாஷ்போர்டு",
+    "Users": "பயனர்கள்",
+    "See All Users": "அனைத்து பயனர்களையும் காண்க",
+    "Add New User": "புதிய பயனரைச் சேர்க்கவும்",
+    "My Profile": "என்னுடைய சுயவிவரம்",
+    "Customers": "வாடிக்கையாளர்கள்",
+    "Add New Customer": "புதிய வாடிக்கையாளரைச் சேர்க்கவும்",
+    "Transactions": "பரிவர்த்தனைகள்",
+    "Stashed Bills": "பதுக்கப்பட்ட மசோதா"
+  }
+}

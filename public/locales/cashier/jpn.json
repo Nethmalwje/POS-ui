@@ -1,0 +1,69 @@
+{
+  "Welcome to React": "ayyoo Reactへようこそ",
+  "title": "react-i18nextを使用したReactへようこそ",
+  "description": {
+    "part1": "<1>src/App.js</1>を編集して保存し、リロードしてください。",
+    "part2": "上のボタンを使って英語とドイツ語の間で言語を切り替えます。"
+  },
+  "Find Item": "アイテムを見つける",
+  "order_details": "注文の詳細",
+  "grand_total": "合計",
+
+  "quantity": "数量",
+  "price": "価格",
+  "total": "合計",
+  "increment": "増加",
+  "decrement": "減少",
+  "delete": "削除",
+  "payment": {
+    "cash": "現金",
+    "card": "カード",
+    "items": "アイテム:",
+    "total_price": "合計価格:",
+    "cash_placeholder": "金額を入力してください",
+    "change": "お釣り:",
+    "checkout": "チェックアウト",
+    "stashing_bill": "請求書を保管中...",
+    "processing_order": "注文を処理中...",
+    "please_wait": "チェックアウトを完了するまでお待ちください。",
+    "checkout_success": "チェックアウト成功",
+    "payment_processed": "支払いが成功裏に処理されました。",
+    "stashing_success": "保管成功",
+    "stashing_processed": "請求書が正常に保管されました。",
+    "loading_animation": "読み込みアニメーション",
+    "amount_received": "受け取った金額"
+  },
+  "add_sale": {
+    "enter_barcode": "バーコードを入力",
+    "enter_quantity": "数量を入力",
+    "submit": "提出",
+    "scan_barcode": "バーコードをスキャン",
+    "scan_barcode_modal_title": "バーコードをスキャン",
+    "done": "完了",
+    "cancel": "キャンセル"
+  },
+  "search_items": {
+    "searchPlaceholder": "アイテム名で検索",
+    "searchButton": "検索",
+    "resetButton": "リセット",
+    "priceLabel": "$",
+    "quantityLabel": "数量",
+    "addToCartButton": "カートに追加"
+  },
+  "loyalty programme": "ロイヤリティプログラム",
+  "Phone": "電話",
+  "phone number": "電話番号",
+  "Discounts": "割引",
+  "Promo Code": "プロモーションコード",
+  "cashier_nav": {
+    "Dashboard": "ダッシュボード",
+    "Users": "ユーザー",
+    "See All Users": "すべてのユーザーを見る",
+    "Add New User": "新しいユーザーを追加",
+    "My Profile": "私のプロフィール",
+    "Customers": "顧客",
+    "Add New Customer": "新しい顧客を追加",
+    "Transactions": "取引",
+    "Stashed Bills": "保管された請求書"
+  }
+}

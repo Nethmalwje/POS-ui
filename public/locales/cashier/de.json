@@ -1,0 +1,70 @@
+{
+  "Welcome to React": "Willkommen bei ayyoo React",
+  "title": "Willkommen bei React mit react-i18next",
+  "description": {
+    "part1": "Um zu beginnen, bearbeiten Sie <1>src/App.js</1> und speichern Sie, um neu zu laden.",
+    "part2": "Wechseln Sie die Sprache zwischen Englisch und Deutsch mit den Schaltflächen oben."
+  },
+  "Find Item": "Artikel finden",
+  "order_details": "Bestelldetails",
+  "grand_total": "Gesamtsumme",
+  "item_name": "Artikelname",
+  "quantity": "Menge",
+  "price": "Preis",
+  "total": "Gesamt",
+  "increment": "Erhöhen",
+  "decrement": "Verringern",
+  "delete": "Löschen",
+  "payment": {
+    "cash": "Bargeld",
+    "card": "Karte",
+    "items": "Artikel:",
+    "total_price": "Gesamtpreis:",
+    "cash_placeholder": "Betrag eingeben",
+    "change": "Wechselgeld:",
+    "checkout": "Zur Kasse",
+    "stashing_bill": "Rechnung wird abgelegt...",
+    "processing_order": "Ihre Bestellung wird bearbeitet...",
+    "please_wait": "Bitte warten Sie, während wir den Checkout abschließen.",
+    "checkout_success": "Checkout erfolgreich",
+    "payment_processed": "Die Zahlung wurde erfolgreich verarbeitet.",
+    "stashing_success": "Ablage erfolgreich",
+    "stashing_processed": "Die Rechnung wurde erfolgreich abgelegt.",
+    "loading_animation": "Ladeanimation",
+    "amount_received": "Erhaltener Betrag"
+  },
+  "add_sale": {
+    "enter_barcode": "Barcode eingeben",
+    "enter_quantity": "Menge eingeben",
+    "submit": "Einreichen",
+    "scan_barcode": "Barcode scannen",
+    "scan_barcode_modal_title": "Scannen Sie den Barcode",
+    "done": "Fertig",
+    "cancel": "Abbrechen"
+  },
+  "search_items": {
+    "searchPlaceholder": "Nach Artikelname suchen",
+    "searchButton": "Suchen",
+    "resetButton": "Zurücksetzen",
+    "priceLabel": "$",
+    "quantityLabel": "Menge",
+    "addToCartButton": "In den Warenkorb"
+  },
+  "loyalty programme": "Treueprogramm",
+  "Phone": "Telefon",
+  "phone number": "Telefonnummer",
+  "Discounts": "Rabatte",
+  "Promo Code": "Aktionscode",
+
+  "cashier_nav": {
+    "dashboard": "Instrumententafel",
+    "users": "Benutzer",
+    "see_all_users": "Alle Benutzer anzeigen",
+    "add_new_user": "Neuen Benutzer hinzufügen",
+    "my_profile": "Mein Profil",
+    "customers": "Kunden",
+    "add_new_customer": "Neuen Kunden hinzufügen",
+    "transactions": "Transaktionen",
+    "stashed_bills": "Gespeicherte Rechnungen"
+  }
+}

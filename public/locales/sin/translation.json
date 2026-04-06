@@ -1,0 +1,60 @@
+{
+  "Welcome to React": "sinhala",
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+
+  "loyalty programme": "ලාභාංශ ක්‍රමය",
+  "Phone": "දුරකථන",
+  "phone number": "දුරකථන අංකය",
+  "Discounts": "වට්ටම්",
+  "Promo Code": "ප්‍රවර්ධන කේතය",
+
+  "order_details": "ඇණවුම් විස්තර",
+  "grand_total": "මුළු එකතුව",
+  "item_name": "අයිතමය",
+  "quantity": "ප්‍රමාණය",
+  "price": "මිල",
+  "total": "මුළු මුදල",
+  "increment": "ඉහළ නැංවීම",
+  "decrement": "අඩු කිරීම",
+  "delete": "මකන්න",
+  "Find Item": "අයිතමය සෙවීම",
+  "payment": {
+    "cash": "මුදල්",
+    "card": "පතේ",
+    "items": "අයිතම:",
+    "total_price": "මුළු මිල:",
+    "cash_placeholder": "මුදල ඇතුල් කරන්න",
+    "change": "වෙනස:",
+    "checkout": "ගෙවිමේදී",
+    "stashing_bill": "බිල් මල් මවමින්...",
+    "processing_order": "ඔබගේ ඇණවුම සැකසෙමින්...",
+    "please_wait": "ගෙවිම සම්පූර්ණ කරද්දී බලා සිටින්න.",
+    "checkout_success": "ගෙවිම සාර්ථකයි",
+    "payment_processed": "ගෙවීම සාර්ථකව සිදුකරන ලදි.",
+    "stashing_success": "බිල් මල් සාර්ථකයි",
+    "stashing_processed": "බිල් මල් සම්පූර්ණ කරන ලදි.",
+    "loading_animation": "පැතිවීමේ අන්තර්ගතය",
+    "amount_received": "ලැබුණු මුදල"
+  },
+  "add_sale": {
+    "enter_barcode": "කෝඩ් අංකය ඇතුළත් කරන්න",
+    "enter_quantity": "ප්‍රමාණය ඇතුළත් කරන්න",
+    "submit": "ඉදිරිපත් කරන්න",
+    "scan_barcode": "කෝඩ් අංකය ස්කෑන් කරන්න",
+    "scan_barcode_modal_title": "කෝඩ් අංකය ස්කෑන් කරන්න",
+    "done": "සම්පූර්ණයි",
+    "cancel": "අවලංගු කරන්න"
+  },
+  "search_items": {
+    "searchPlaceholder": "අයිතම නාමය අනුව සෙවීම",
+    "searchButton": "සෙවීම",
+    "resetButton": "නැවත පිහිටුවීම",
+    "priceLabel": "රු.",
+    "quantityLabel": "ප්‍රමාණය",
+    "addToCartButton": "කොටස් කරගන්න"
+  }
+}

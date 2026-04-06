@@ -1,0 +1,6 @@
+.user-wrapper:hover ~ .user-wrapper {
+  filter: blur(4px);
+}
+.user-wrapper:hover {
+  filter: none;
+}

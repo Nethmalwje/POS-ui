@@ -1,0 +1,58 @@
+{
+  "Welcome to React": "مرحبًا بكم في ayyoo React",
+  "title": "مرحبًا بكم في React باستخدام react-i18next",
+  "description": {
+    "part1": "للبدء، قم بتحرير <1>src/App.js</1> واحفظ لتحديث الصفحة.",
+    "part2": "قم بالتبديل بين اللغة الإنجليزية والألمانية باستخدام الأزرار أعلاه."
+  },
+  "Find Item": "البحث عن عنصر",
+  "order_details": "تفاصيل الطلب",
+  "grand_total": "الإجمالي",
+  "item_name": "اسم العنصر",
+  "quantity": "الكمية",
+  "price": "السعر",
+  "total": "الإجمالي",
+  "increment": "زيادة",
+  "decrement": "نقص",
+  "delete": "حذف",
+  "payment": {
+    "cash": "نقدي",
+    "card": "بطاقة",
+    "items": "عناصر:",
+    "total_price": "السعر الإجمالي:",
+    "cash_placeholder": "أدخل المبلغ",
+    "change": "الباقي:",
+    "checkout": "إتمام الشراء",
+    "stashing_bill": "يتم تخزين الفاتورة...",
+    "processing_order": "يتم معالجة طلبك...",
+    "please_wait": "يرجى الانتظار بينما نقوم بإكمال عملية الشراء.",
+    "checkout_success": "تم إتمام الشراء بنجاح",
+    "payment_processed": "تمت معالجة الدفع بنجاح.",
+    "stashing_success": "تم التخزين بنجاح",
+    "stashing_processed": "تم تخزين الفاتورة بنجاح.",
+    "loading_animation": "رسوم متحركة قيد التحميل",
+    "amount_received": "المبلغ المستلم"
+  },
+  "add_sale": {
+    "enter_barcode": "أدخل الرمز الشريطي",
+    "enter_quantity": "أدخل الكمية",
+    "submit": "تقديم",
+    "scan_barcode": "امسح الرمز الشريطي",
+    "scan_barcode_modal_title": "امسح الرمز الشريطي",
+    "done": "تم",
+    "cancel": "إلغاء"
+  },
+  "search_items": {
+    "searchPlaceholder": "ابحث باسم العنصر",
+    "searchButton": "بحث",
+    "resetButton": "إعادة تعيين",
+    "priceLabel": "$",
+    "quantityLabel": "الكمية",
+    "addToCartButton": "أضف إلى السلة"
+  },
+  "loyalty programme": "برنامج الولاء",
+  "Phone": "هاتف",
+  "phone number": "رقم الهاتف",
+  "Discounts": "خصومات",
+  "Promo Code": "رمز الترويج"
+}

@@ -1,0 +1,47 @@
+/* Custom Table Styles */
+
+/* Table header styles */
+.inner-table .ant-table-thead > tr > th {
+  background-color: #e6f4ff !important;
+  color: black !important; /* White text */
+  text-align: left !important;
+  transition: background-color 0.3s ease, color 0.3s ease !important; /* Smooth transition */
+}
+
+/* Table header hover effect */
+.inner-table .ant-table-thead > tr > th:hover {
+  background-color: #e6f4ff !important; /* Lighter blue on hover */
+  color: black !important; /* Ensure text remains white */
+  cursor: default !important; /* Pointer cursor to indicate interactivity */
+}
+
+/* Override Ant Design default sorting hover effect */
+.inner-table .ant-table-thead > tr > th.ant-table-column-has-sorters:hover {
+  background-color: #3a4bbd !important; /* Lighter blue on hover for sortable columns */
+  color: #ffffff !important; /* Ensure text remains white */
+}
+
+/* Table header active or clicked state (sorted) */
+.inner-table .ant-table-thead > tr > th.ant-table-column-sort {
+  background-color: #4b5dcc !important; /* Darker blue when sorted */
+  color: #ffffff !important; /* White text */
+}
+
+/* Table body styles */
+.inner-table .ant-table-tbody > tr > td {
+  background-color: #f7f8fa !important; /* Light gray background */
+  color: #1f2937 !important; /* Dark text color */
+  text-align: left !important;
+  transition: background-color 0.3s ease !important; /* Smooth transition */
+}
+
+/* Hover effect for table rows */
+.inner-table .ant-table-tbody > tr:hover > td {
+  background-color: #d1d5db; /* Blue background on row hover */
+}
+
+/* Table border customization */
+.inner-table .ant-table {
+  border: 1px solid #d1d5db !important; /* Light gray border */
+  border-radius: 8px !important; /* Rounded corners */
+}

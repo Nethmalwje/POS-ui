@@ -1,0 +1,69 @@
+{
+  "Welcome to React": "欢迎来到ayyoo React",
+  "title": "使用react-i18next欢迎来到React",
+  "description": {
+    "part1": "要开始，请编辑<1>src/App.js</1>并保存以重新加载。",
+    "part2": "使用上面的按钮在英语和德语之间切换语言。"
+  },
+  "loyalty programme": "忠诚计划",
+  "Phone": "电话",
+  "phone number": "电话号码",
+  "Discounts": "折扣",
+  "Promo Code": "优惠码",
+  "Find Item": "查找项目",
+  "order_details": "订单详情",
+  "grand_total": "总计",
+  "item_name": "项目名称",
+  "quantity": "数量",
+  "price": "价格",
+  "total": "总计",
+  "increment": "增加",
+  "decrement": "减少",
+  "delete": "删除",
+  "payment": {
+    "cash": "现金",
+    "card": "卡",
+    "items": "项目：",
+    "total_price": "总价格：",
+    "cash_placeholder": "输入金额",
+    "change": "找零：",
+    "checkout": "结账",
+    "stashing_bill": "正在存放账单...",
+    "processing_order": "正在处理您的订单...",
+    "please_wait": "请等待我们完成结账。",
+    "checkout_success": "结账成功",
+    "payment_processed": "支付已成功处理。",
+    "stashing_success": "存放成功",
+    "stashing_processed": "账单已成功存放。",
+    "loading_animation": "加载动画",
+    "amount_received": "收到的金额"
+  },
+  "add_sale": {
+    "enter_barcode": "输入条形码",
+    "enter_quantity": "输入数量",
+    "submit": "提交",
+    "scan_barcode": "扫描条形码",
+    "scan_barcode_modal_title": "扫描条形码",
+    "done": "完成",
+    "cancel": "取消"
+  },
+  "search_items": {
+    "searchPlaceholder": "按项目名称搜索",
+    "searchButton": "搜索",
+    "resetButton": "重置",
+    "priceLabel": "$",
+    "quantityLabel": "数量",
+    "addToCartButton": "添加到购物车"
+  },
+  "cashier_nav": {
+    "Dashboard": "仪表盘",
+    "Users": "用户",
+    "See All Users": "查看所有用户",
+    "Add New User": "添加新用户",
+    "My Profile": "我的个人资料",
+    "Customers": "客户",
+    "Add New Customer": "添加新客户",
+    "Transactions": "交易",
+    "Stashed Bills": "存放的账单"
+  }
+}

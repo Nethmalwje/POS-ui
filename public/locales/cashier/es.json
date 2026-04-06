@@ -1,0 +1,70 @@
+{
+  "Welcome to React": "Bienvenido a ayyoo React",
+  "title": "Bienvenido a React usando react-i18next",
+  "description": {
+    "part1": "Para comenzar, edite <1>src/App.js</1> y guarde para recargar.",
+    "part2": "Cambia el idioma entre inglés y alemán usando los botones de arriba."
+  },
+  "Find Item": "Buscar artículo",
+  "order_details": "Detalles del pedido",
+  "grand_total": "Gran Total",
+  "item_name": "Nombre del artículo",
+  "quantity": "Cantidad",
+  "price": "Precio",
+  "total": "Total",
+  "increment": "Incrementar",
+  "decrement": "Decrementar",
+  "delete": "Eliminar",
+  "payment": {
+    "cash": "Efectivo",
+    "card": "Tarjeta",
+    "items": "Artículos:",
+    "total_price": "Precio total:",
+    "cash_placeholder": "Ingrese el monto",
+    "change": "Cambio:",
+    "checkout": "Pagar",
+    "stashing_bill": "Guardando la factura...",
+    "processing_order": "Procesando su pedido...",
+    "please_wait": "Por favor, espere mientras completamos el pago.",
+    "checkout_success": "Pago exitoso",
+    "payment_processed": "El pago se ha procesado con éxito.",
+    "stashing_success": "Guardado exitoso",
+    "stashing_processed": "La factura se ha guardado con éxito.",
+    "loading_animation": "Animación de carga",
+    "amount_received": "Monto recibido"
+  },
+  "add_sale": {
+    "enter_barcode": "Ingrese el código de barras",
+    "enter_quantity": "Ingrese la cantidad",
+    "submit": "Enviar",
+    "scan_barcode": "Escanear código de barras",
+    "scan_barcode_modal_title": "Escanear el código de barras",
+    "done": "Hecho",
+    "cancel": "Cancelar"
+  },
+  "search_items": {
+    "searchPlaceholder": "Buscar por nombre de artículo",
+    "searchButton": "Buscar",
+    "resetButton": "Restablecer",
+    "priceLabel": "$",
+    "quantityLabel": "Cantidad",
+    "addToCartButton": "Agregar al carrito"
+  },
+  "loyalty programme": "Programa de Lealtad",
+  "Phone": "Teléfono",
+  "phone number": "Número de Teléfono",
+  "Discounts": "Descuentos",
+  "Promo Code": "Código Promocional",
+
+  "cashier_nav": {
+    "Dashboard": "Tablero",
+    "Users": "Usuarios",
+    "See All Users": "Ver todos los usuarios",
+    "Add New User": "Agregar nuevo usuario",
+    "My Profile": "Mi perfil",
+    "Customers": "Clientes",
+    "Add New Customer": "Agregar nuevo cliente",
+    "Transactions": "Transacciones",
+    "Stashed Bills": "Facturas guardadas"
+  }
+}

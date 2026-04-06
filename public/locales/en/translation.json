@@ -1,0 +1,60 @@
+{
+  "Welcome to React": "Welcome to ayyoo React",
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "loyalty programme": "Loyalty Programme",
+  "Phone": "Phone",
+  "phone number": "Phone Number",
+  "Discounts": "Discounts",
+  "Promo Code": "Promo Code",
+
+  "Find Item": "Find Item",
+  "order_details": "Order Details",
+  "grand_total": "Grand Total",
+  "item_name": "Item Name",
+  "quantity": "Quantity",
+  "price": "Price",
+  "total": "Total",
+  "increment": "Increment",
+  "decrement": "Decrement",
+  "delete": "Delete",
+  "payment": {
+    "cash": "Cash",
+    "card": "Card",
+    "items": "Items:",
+    "total_price": "Total Price:",
+    "cash_placeholder": "Enter Amount",
+    "change": "Change:",
+    "checkout": "Checkout",
+    "stashing_bill": "Stashing the Bill...",
+    "processing_order": "Processing your order...",
+    "please_wait": "Please wait while we complete the checkout.",
+    "checkout_success": "Checkout Successful",
+    "payment_processed": "The payment has been processed successfully.",
+    "stashing_success": "Stashing Successful",
+    "stashing_processed": "The bill has been stashed successfully.",
+    "loading_animation": "Loading animation",
+    "amount_received": "Amount Received"
+  },
+  "add_sale": {
+    "enter_barcode": "Enter Barcode",
+    "enter_quantity": "Enter Quantity",
+    "submit": "Submit",
+    "scan_barcode": "Scan Barcode",
+    "scan_barcode_modal_title": "Scan the Barcode",
+    "done": "Done",
+    "cancel": "Cancel"
+  },
+
+  "search_items": {
+    "searchPlaceholder": "Search by item name",
+    "searchButton": "Search",
+    "resetButton": "Reset",
+    "priceLabel": "$",
+    "quantityLabel": "Quantity",
+    "addToCartButton": "Add to Cart"
+  }
+}

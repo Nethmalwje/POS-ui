@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Or change the hover background color */
+.ant-table-expanded-row {
+  background-color: #f1f4ff !important; /* Light gray background by default */
+}
+
+/* Set a default gray background color for each cell in the expanded row */
+.ant-table-expanded-row > td {
+  background-color: #f1f4ff !important; /* Ensure each cell has the same default background */
+}
