@@ -14,7 +14,7 @@ function useLogin() {
       //console.log(data);
       toast.success("Login successful");
       setUserLogin(data.token);
-      navigate("/dashboard");
+      navigate("/products");
     },
     onError: (error) => {
       //  console.log(error);

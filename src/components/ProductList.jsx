@@ -98,7 +98,7 @@ const ProductList = () => {
             <Space
               size="middle"
               onClick={() => handleDelete(product?.product_id)}
-              className="bg-red-400 py-2 px-4 hover:bg-red-600 cursor-pointer rounded-xl hover:text-white"
+              className="bg-green-400 py-2 px-4 hover:bg-green-600 cursor-pointer rounded-xl hover:text-white"
             >
               <a className="hover:text-white font-semibold">Delete</a>
             </Space>

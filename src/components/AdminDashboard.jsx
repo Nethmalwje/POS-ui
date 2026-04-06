@@ -6,7 +6,7 @@ const AdminDashboard = () => {
   return (
     <div>
       <h1 className="text-2xl font-bold font-poppins mb-4 md:text-left text-center">
-        Dashboard
+        Overview
       </h1>
       <div className="flex flex-col gap-10">
         <IncomeOverview />
