@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: "npm"
 
       - name: Install dependencies
@@ -26,9 +26,10 @@ jobs:
         run: npm start &
         env:
           CI: false
+          BROWSER: none
 
       - name: Wait for app to be ready
-        run: npx wait-on http://localhost:3000 --timeout 60000
+        run: npx wait-on http://localhost:3000 --timeout 120000
 
       - name: Run Meticulous tests
         uses: alwaysmeticulous/report-diffs-action/cloud-compute@v1
