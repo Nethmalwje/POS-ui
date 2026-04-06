@@ -22,11 +22,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build app
-        run: npm run build
-
       - name: Start app
-        run: npx serve -s build -l 3000 &
+        run: npm start &
+        env:
+          CI: false
+
+      - name: Wait for app to be ready
+        run: npx wait-on http://localhost:3000 --timeout 60000
 
       - name: Run Meticulous tests
         uses: alwaysmeticulous/report-diffs-action/cloud-compute@v1
